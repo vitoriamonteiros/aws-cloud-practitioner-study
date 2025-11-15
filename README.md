@@ -23,7 +23,7 @@ Vamos nos conectar pelo LinkedIn! 💬
   <a href="https://www.linkedin.com/in/vitoriamonteiros" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vitória%20Monteiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a><br><br>
-  Feito com 💜 por <strong>Vitória Monteiro</strong> 
+  Feito com ❤️ por <strong>Vitória Monteiro</strong> 
 </p>
 
 
