@@ -7,10 +7,6 @@ Repositório com minhas anotações enquanto estudo para a certificação **AWS 
 ## 📂 Estrutura
 Todas as anotações ficam organizadas na pasta **/notes**.
 
----
-## 🚧 Em construção...
-Este repositório está em desenvolvimento e será constantemente atualizado.
-
 01 - Conceitos Fundamentais
 02 - Configuração da conta
 03 - AWS IAM - Identity and Access Management
@@ -27,6 +23,9 @@ Este repositório está em desenvolvimento e será constantemente atualizado.
 14
 15
 
+---
+## 🚧 Em construção...
+Este repositório está em desenvolvimento e será constantemente atualizado.
 
 ---
 
