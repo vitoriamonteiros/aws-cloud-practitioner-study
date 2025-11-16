@@ -12,11 +12,11 @@ Todas as anotações ficam organizadas na pasta **/notes**.
 Este repositório está em desenvolvimento e será constantemente atualizado.
 
 01 - Conceitos Fundamentais
-02 - 
-03 - 
-04 - 
-05 - 
-06 - 
+02 - Configuração da conta
+03 - AWS IAM - Identity and Access Management
+04 - Amazon EC2 - Elastic Compute Cloud  
+05 - Amazon EC2 Auto Scaling
+06 - Elastic Load Balance
 07 - 
 08 - 
 09 - 
