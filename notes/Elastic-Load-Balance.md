@@ -1,8 +1,8 @@
-# <svg class="w-6 h-6" height="40" width="40" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="Arch_Elastic-Load-Balancing_32_svg__a"><stop stop-color="#4D27A8" offset="0%"></stop><stop stop-color="#A166FF" offset="100%"></stop></linearGradient></defs><g fill="none" fill-rule="evenodd"><path d="M0 0h40v40H0z" fill="url(#Arch_Elastic-Load-Balancing_32_svg__a)"></path><path d="M15 27c-3.859 0-7-3.14-7-7s3.141-7 7-7 7 3.14 7 7-3.141 7-7 7m14 1c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2m0-20c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2m1 10.5c1.103 0 2 .897 2 2s-.897 2-2 2-2-.897-2-2 .897-2 2-2M22.931 21h4.12A2.997 2.997 0 0030 23.5c1.654 0 3-1.346 3-3s-1.346-3-3-3a2.997 2.997 0 00-2.949 2.5H23c0-1.489-.416-2.88-1.128-4.075l4.827-4.023A2.982 2.982 0 0029 13c1.654 0 3-1.346 3-3s-1.346-3-3-3-3 1.346-3 3c0 .361.074.702.191 1.022l-4.885 4.072A7.985 7.985 0 0015 12c-4.411 0-8 3.589-8 8s3.589 8 8 8a7.985 7.985 0 006.306-3.094l4.885 4.072c-.117.32-.191.661-.191 1.022 0 1.654 1.346 3 3 3s3-1.346 3-3-1.346-3-3-3c-.929 0-1.75.433-2.301 1.098l-4.827-4.023A7.927 7.927 0 0022.931 21" fill="#FFF"></path></g></svg> Elastic Load Balance
-Distribuir a carga, ou seja, **==distribui automaticamente o tráfego==** em vários recursos.
-Distribui o tráfego em **==várias zonas de disponibilidade==**
+# Elastic Load Balance
+Distribuir a carga, ou seja, **distribui automaticamente o tráfego** em vários recursos.
+Distribui o tráfego em **várias zonas de disponibilidade**
 
-## <svg class="w-6 h-6" height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M33.69 34.375h2.345V32H33.69v2.375zm-6.939 0h2.375V32h-2.375v2.375zm-7.875 0h2.375V32h-2.375v2.375zm-6.91 0h2.285V32h-2.285v2.375zm6.035-17.5h12V11h-12v5.875zM37.035 30h-1.534v-3.375a1 1 0 00-1-1h-2.5V22.25a1 1 0 00-1-1h-6v-2.375h6a1 1 0 001-1V10a1 1 0 00-1-1h-14a1 1 0 00-1 1v7.875a1 1 0 001 1h6v2.375h-6a1 1 0 00-1 1v3.375h-2.5a1 1 0 00-1 1V30h-1.536a1 1 0 00-1 1v4.375a1 1 0 001 1h4.286a1 1 0 001-1V31a1 1 0 00-1-1h-.75v-2.375h4.125V30h-.75a1 1 0 00-1 1v4.375a1 1 0 001 1h4.375a1 1 0 001-1V31a1 1 0 00-1-1h-1.625v-3.375a1 1 0 00-1-1h-1.625V23.25h12v2.375h-1.625a1 1 0 00-1 1V30h-1.625a1 1 0 00-1 1v4.375a1 1 0 001 1h4.375a1 1 0 001-1V31a1 1 0 00-1-1h-.75v-2.375h4.125V30h-.811a1 1 0 00-1 1v4.375a1 1 0 001 1h4.345a1 1 0 001-1V31a1 1 0 00-1-1zM24.001 44C12.972 44 4 35.028 4 24S12.972 4 24.001 4c11.028 0 20 8.972 20 20s-8.972 20-20 20zm0-42C11.869 2 2 11.869 2 24s9.869 22 22.001 22c12.13 0 22-9.869 22-22s-9.87-22-22-22z" fill="#4D27AA" fill-rule="evenodd"></path></svg>Application Load Balancers
+## Application Load Balancers
 - balanceamento de carga de tráfego HTTP e HTTPS
 - Encaminhamento com base no tipo de solicitação
 
@@ -10,3 +10,4 @@ ___
 ___
 
 [⬅ Voltar ao índice](../README.md##estrutura)
+
