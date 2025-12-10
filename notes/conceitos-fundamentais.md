@@ -14,19 +14,19 @@
 ---
 
 ### Região (Region) 
-- É uma **==área geográfica==** contendo várias Availability Zones. 
+- É uma **área geográfica** contendo várias Availability Zones. 
 - Cada região é projetada para ser isolada das outras regiões, garantindo resiliência e independência. 
 - Contem 2 ou mais zonas de disponibilidade.  
 
 
 ### Zonas de Disponibilidade (Availability Zones - AZ) 
 - Três ou mais data centers físicos independentes dentro de uma mesma região. 
-- Objetivo da AZ é garantir **==alta disponibilidade e ser tolerante a falhas==**.
+- Objetivo da AZ é garantir **alta disponibilidade e ser tolerante a falhas**.
 - Partes totalmente isoladas da infra global da AWS.
 
 ### Pontos de Presença (PoPs) (Edge Locations)
 - Datacenter menores espalhados por locais no mundo.
-- Para fazer a **==distribuição de conteúdo (CDN)==** com baixa latência e alta velocidade.
+- Para fazer a **distribuição de conteúdo (CDN)** com baixa latência e alta velocidade.
 - Consumir mais próximo do cliente
   
  ---
